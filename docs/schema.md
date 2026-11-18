@@ -1,6 +1,6 @@
 # 欄位說明
 
-## 完整表（`data/dabu-baihou/大埔百侯-完整表.tsv`）
+## `data/dabu-baihou/大埔百侯.tsv`
 
 一行一個「字—讀音」。
 

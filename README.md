@@ -6,7 +6,7 @@
 
 | 檔 | 內容 |
 |---|---|
-| [`data/dabu-baihou/大埔百侯-完整表.tsv`](data/dabu-baihou/大埔百侯-完整表.tsv) | 主表 |
+| [`data/dabu-baihou/大埔百侯.tsv`](data/dabu-baihou/大埔百侯.tsv) | 主表 |
 | [`docs/schema.md`](docs/schema.md) | 欄位說明與拼音方案 |
 
 ## 客拼
