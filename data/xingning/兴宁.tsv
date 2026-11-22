@@ -83,6 +83,7 @@
 乳	U+4E73	rhi1	rh	i	1	ʐʅ1	同音字表	
 乾	U+4E7E	gon1	g	on	1	kɔn1	同音字表	
 乾	U+4E7E	kien2	k	ien	2	kʰien2	同音字表	
+了	U+4E86	liau2	l	iau	2	liau2	同音字表	
 了	U+4E86	liau3	l	iau	3	liau3	同音字表	
 爭	U+722D	zang1	z	ang	1	tsaŋ1	同音字表	
 爭	U+722D	zien1	z	ien	1	tsien1	同音字表	
@@ -315,6 +316,7 @@
 偲	U+5072	cai1	c	ai	1	tsʰai1	同音字表	
 偶	U+5076	niu3	n	iu	3	niu3	同音字表	
 偷	U+5077	tiu1	t	iu	1	tʰiu1	同音字表	
+僂	U+50C2	liu3	l	iu	3	liu3	同音字表	
 僨	U+50E8	fun5	f	un	5	fun5	同音字表	
 傀	U+5080	gui3	g	ui	3	kui3	同音字表	
 傅	U+5085	fu5	f	u	5	fu5	同音字表	
@@ -540,7 +542,6 @@
 匆	U+5306	cung1	c	ung	1	tsʰuŋ1	同音字表	
 匈	U+5308	shung1	sh	ung	1	ʂuŋ1	同音字表	
 匍	U+530D	pu2	p	u	2	pʰu2	同音字表	
-匍	U+530D	rhi2	rh	i	2	ʐʅ2	同音字表	
 匏	U+530F	pau2	p	au	2	pʰau2	同音字表	
 匐	U+5310	fug7	f	ug	7	fuk7	同音字表	
 匕	U+5315	bi3	b	i	3	pi3	同音字表	
@@ -936,6 +937,7 @@
 噴	U+5674	gung5	g	ung	5	kuŋ5	同音字表	
 喹	U+55B9	kui2	k	ui	2	kʰui2	同音字表	
 喼	U+55BC	kiag7	k	iag	7	kʰiak7	同音字表	
+嘍	U+560D	liu2	l	iu	2	liu2	同音字表	
 嘍	U+560D	lo2	l	o	2	lɔ2	同音字表	
 嚳	U+56B3	kug7	k	ug	7	kʰuk7	同音字表	
 嗄	U+55C4	sa1	s	a	1	sa1	同音字表	
@@ -1159,7 +1161,6 @@
 填	U+586B	tien2	t	ien	2	tʰien2	同音字表	
 塱	U+5871	long5	l	ong	5	lɔŋ5	同音字表	
 塾	U+587E	zhug8	zh	ug	8	tʂuk8	同音字表	
-塿	U+587F	liu3	l	iu	3	liu3	同音字表	
 墁	U+5881	man5	m	an	5	man5	同音字表	
 境	U+5883	gin5	g	in	5	kin5	同音字表	
 墅	U+5885	su3	s	u	3	su3	同音字表	
@@ -1285,6 +1286,7 @@
 姿	U+59FF	zii1	z	ii	1	tsɿ1	同音字表	
 威	U+5A01	vi1	v	i	1	vi1	同音字表	
 娃	U+5A03	va1	v	a	1	va1	同音字表	
+婁	U+5A41	liu2	l	iu	2	liu2	同音字表	
 嬈	U+5B08	niau2	n	iau	2	niau2	同音字表	
 嬌	U+5B0C	giau1	g	iau	1	kiau1	同音字表	
 娌	U+5A0C	li1	l	i	1	li1	同音字表	
@@ -1435,7 +1437,9 @@
 寢	U+5BE2	cin3	c	in	3	tsʰin3	同音字表	
 寤	U+5BE4	ngu5	ng	u	5	ŋu5	同音字表	
 寥	U+5BE5	liau1	l	iau	1	liau1	同音字表	
+寥	U+5BE5	liau2	l	iau	2	liau2	同音字表	
 寨	U+5BE8	cai5	c	ai	5	tsʰai5	同音字表	
+寮	U+5BEE	liau2	l	iau	2	liau2	同音字表	
 寸	U+5BF8	cun2	c	un	2	tsʰun2	同音字表	
 寸	U+5BF8	cun5	c	un	5	tsʰun5	同音字表	
 對	U+5C0D	dui5	d	ui	5	tui5	同音字表	
@@ -1460,6 +1464,7 @@
 尚	U+5C1A	shong5	sh	ong	5	ʂɔŋ5	同音字表	
 嘗	U+5617	shong2	sh	ong	2	ʂɔŋ2	同音字表	
 尠	U+5C20	sien3	s	ien	3	sien3	同音字表	
+尥	U+5C25	liau5	l	iau	5	liau5	同音字表	
 尷	U+5C37	gang1	g	ang	1	kaŋ1	同音字表	
 屍	U+5C4D	shi1	sh	i	1	ʂʅ1	同音字表	
 尺	U+5C3A	chag7	ch	ag	7	tʂʰak7	同音字表	
@@ -2214,6 +2219,7 @@
 摘	U+6458	shen5	sh	en	5	ʂen5	同音字表	
 摘	U+6458	zag7	z	ag	7	tsak7	同音字表	
 摝	U+645D	lug7	l	ug	7	luk7	單字詞條	
+摞	U+645E	liau5	l	iau	5	liau5	同音字表	
 摞	U+645E	lo5	l	o	5	lɔ5	同音字表	
 摩	U+6469	ma1	m	a	1	ma1	同音字表	
 摩	U+6469	mo2	m	o	2	mɔ2	同音字表	
@@ -2258,6 +2264,7 @@
 擘	U+64D8	pag7	p	ag	7	pʰak7	同音字表	
 擦	U+64E6	cad7	c	ad	7	tsʰat7	同音字表	
 擦	U+64E6	cai5	c	ai	5	tsʰai5	同音字表	
+擩	U+64E9	rhi3	rh	i	3	ʐʅ3	同音字表	
 攀	U+6500	ban1	b	an	1	pan1	同音字表	
 攀	U+6500	pan1	p	an	1	pʰan1	同音字表	
 攄	U+6504	fong3	f	ong	3	fɔŋ3	同音字表	
@@ -2638,6 +2645,7 @@
 棻	U+68FB	fun1	f	un	1	fun1	同音字表	
 棼	U+68FC	fun2	f	un	2	fun2	同音字表	
 椅	U+6905	rhi3	rh	i	3	ʐʅ3	同音字表	
+椋	U+690B	liong2	l	iong	2	liɔŋ2	同音字表	
 植	U+690D	chid8	ch	id	8	tʂʰit8	同音字表	
 植	U+690D	zhid8	zh	id	8	tʂit8	同音字表	
 椑	U+6911	bi1	b	i	1	pi1	同音字表	
@@ -2665,6 +2673,8 @@
 楯	U+696F	tun3	t	un	3	tʰun3	同音字表	
 楷	U+6977	kai3	k	ai	3	kʰai3	同音字表	
 楹	U+6979	rhin2	rh	in	2	ʐin2	同音字表	
+樓	U+6A13	liu2	l	iu	2	liu2	同音字表	
+樓	U+6A13	liu3	l	iu	3	liu3	同音字表	
 榀	U+6980	pun3	p	un	3	pʰun3	同音字表	
 欖	U+6B16	lan3	l	an	3	lan3	同音字表	
 欖	U+6B16	lang3	l	ang	3	laŋ3	同音字表	
@@ -3064,10 +3074,12 @@
 濺	U+6FFA	cien5	c	ien	5	tsʰien5	同音字表	
 濺	U+6FFA	zien5	z	ien	5	tsien5	同音字表	
 漵	U+6F35	si5	s	i	5	si5	同音字表	
+漊	U+6F0A	liu2	l	iu	2	liu2	同音字表	
 溏	U+6E8F	tong2	t	ong	2	tʰɔŋ2	同音字表	
 源	U+6E90	nien2	n	ien	2	nien2	同音字表	
 溚	U+6E9A	tag7	t	ag	7	tʰak7	同音字表	
 溜	U+6E9C	liu1	l	iu	1	liu1	同音字表	
+溜	U+6E9C	liu2	l	iu	2	liu2	同音字表	
 溜	U+6E9C	liu5	l	iu	5	liu5	同音字表	
 溟	U+6E9F	mien2	m	ien	2	mien2	同音字表	
 溠	U+6EA0	za5	z	a	5	tsa5	同音字表	
@@ -3135,6 +3147,7 @@
 潛	U+6F5B	ciang2	c	iang	2	tsʰiaŋ2	同音字表	
 潞	U+6F5E	lu5	l	u	5	lu5	同音字表	
 潟	U+6F5F	sid7	s	id	7	sit7	同音字表	
+潦	U+6F66	liau2	l	iau	2	liau2	同音字表	
 潮	U+6F6E	chau2	ch	au	2	tʂʰau2	同音字表	
 潲	U+6F72	sau5	s	au	5	sau5	同音字表	
 瀦	U+7026	zu1	z	u	1	tsu1	同音字表	
@@ -3184,6 +3197,7 @@
 燈	U+71C8	dien1	d	ien	1	tien1	同音字表	
 灰	U+7070	foi1	f	oi	1	fɔi1	同音字表	
 竈	U+7AC8	zau5	z	au	5	tsau5	同音字表	
+灺	U+707A	cia5	c	ia	5	tsʰia5	同音字表	
 災	U+707D	zai1	z	ai	1	tsai1	同音字表	
 燦	U+71E6	can5	c	an	5	tsʰan5	同音字表	
 燦	U+71E6	sien1	s	ien	1	sien1	同音字表	
@@ -3525,6 +3539,7 @@
 番	U+756A	fan1	f	an	1	fan1	同音字表	
 番	U+756A	pan1	p	an	1	pʰan1	同音字表	
 畯	U+756F	zun5	z	un	5	tsun5	同音字表	
+畲	U+7572	cia2	c	ia	2	tsʰia2	同音字表	
 畲	U+7572	rhi3	rh	i	3	ʐʅ3	同音字表	
 畲	U+7572	sha2	sh	a	2	ʂa2	同音字表	
 疇	U+7587	su2	s	u	2	su2	同音字表	
@@ -3697,6 +3712,7 @@
 眉	U+7709	mi2	m	i	2	mi2	同音字表	
 眊	U+770A	mau5	m	au	5	mau5	同音字表	
 看	U+770B	kon5	k	on	5	kʰɔn5	同音字表	
+眙	U+7719	rhi2	rh	i	2	ʐʅ2	同音字表	
 眚	U+771A	shin3	sh	in	3	ʂin3	同音字表	
 眚	U+771A	ziung5	z	iung	5	tsiuŋ5	同音字表	
 眛	U+771B	mi5	m	i	5	mi5	同音字表	
@@ -3745,13 +3761,14 @@
 瞎	U+778E	had7	h	ad	7	hat7	同音字表	
 瞑	U+7791	mien2	m	ien	2	mien2	同音字表	
 瞞	U+779E	man3	m	an	3	man3	單字詞條	
+瞜	U+779C	liu2	l	iu	2	liu2	同音字表	
 瞢	U+77A2	gud7	g	ud	7	kut7	同音字表	
 矚	U+77DA	zhug7	zh	ug	7	tʂuk7	同音字表	
 矚	U+77DA	zu1	z	u	1	tsu1	同音字表	
 瞪	U+77AA	chang1	ch	ang	1	tʂʰaŋ1	同音字表	
 瞪	U+77AA	dien1	d	ien	1	tien1	同音字表	
 瞬	U+77AC	shun5	sh	un	5	ʂun5	同音字表	
-瞭	U+77AD	liau5	l	iau	5	liau5	同音字表	
+瞭	U+77AD	liau2	l	iau	2	liau2	同音字表	
 瞲	U+77B2	ciug7	c	iug	7	tsʰiuk7	單字詞條	
 瞳	U+77B3	tung2	t	ung	2	tʰuŋ2	同音字表	
 瞻	U+77BB	zhang1	zh	ang	1	tʂaŋ1	同音字表	
@@ -3964,6 +3981,7 @@
 窄	U+7A84	zad7	z	ad	7	tsat7	同音字表	
 窅	U+7A85	rhau3	rh	au	3	ʐau3	同音字表	
 窆	U+7A86	bien3	b	ien	3	pien3	同音字表	
+窌	U+7A8C	liau2	l	iau	2	liau2	同音字表	
 竅	U+7AC5	kiau5	k	iau	5	kʰiau5	同音字表	
 窵	U+7AB5	diau5	d	iau	5	tiau5	同音字表	
 窯	U+7AAF	rhau2	rh	au	2	ʐau2	同音字表	
@@ -4108,6 +4126,7 @@
 粥	U+7CA5	zhug7	zh	ug	7	tʂuk7	同音字表	
 糞	U+7CDE	bun5	b	un	5	pun5	同音字表	
 糧	U+7CE7	liong2	l	iong	2	liɔŋ2	同音字表	
+粱	U+7CB1	liong2	l	iong	2	liɔŋ2	同音字表	
 粲	U+7CB2	can5	c	an	5	tsʰan5	同音字表	
 粳	U+7CB3	gang1	g	ang	1	kaŋ1	同音字表	
 粼	U+7CBC	lin2	l	in	2	lin2	同音字表	
@@ -4238,6 +4257,7 @@
 緩	U+7DE9	fon5	f	on	5	fɔn5	同音字表	
 緩	U+7DE9	rhen1	rh	en	1	ʐen1	同音字表	
 締	U+7DE0	di5	d	i	5	ti5	同音字表	
+縷	U+7E37	liu3	l	iu	3	liu3	同音字表	
 編	U+7DE8	bien3	b	ien	3	pien3	同音字表	
 編	U+7DE8	pien1	p	ien	1	pʰien1	同音字表	
 緡	U+7DE1	mun2	m	un	2	mun2	同音字表	
@@ -4334,6 +4354,7 @@
 耙	U+8019	pa2	p	a	2	pʰa2	同音字表	
 耮	U+802E	lau5	l	au	5	lau5	同音字表	
 耥	U+8025	tong3	t	ong	3	tʰɔŋ3	同音字表	
+耬	U+802C	liu2	l	iu	2	liu2	同音字表	
 耱	U+8031	mo5	m	o	5	mɔ5	同音字表	
 耳	U+8033	ni3	n	i	3	ni3	同音字表	
 耶	U+8036	rha2	rh	a	2	ʐa2	同音字表	
@@ -4341,6 +4362,7 @@
 恥	U+6065	chi3	ch	i	3	tʂʰʅ3	同音字表	
 耽	U+803D	dang1	d	ang	1	taŋ1	同音字表	
 聆	U+8046	zhin1	zh	in	1	tʂin1	同音字表	
+聊	U+804A	liau2	l	iau	2	liau2	同音字表	
 聾	U+807E	lung1	l	ung	1	luŋ1	同音字表	
 職	U+8077	zhid7	zh	id	7	tʂit7	同音字表	
 聯	U+806F	lien2	l	ien	2	lien2	同音字表	
@@ -4738,6 +4760,7 @@
 蒂	U+8482	di5	d	i	5	ti5	同音字表	
 蕢	U+8562	kui5	k	ui	5	kʰui5	同音字表	
 蔣	U+8523	ziong3	z	iong	3	tsiɔŋ3	同音字表	
+蔞	U+851E	liu2	l	iu	2	liu2	同音字表	
 蒗	U+8497	long5	l	ong	5	lɔŋ5	同音字表	
 蒙	U+8499	mung1	m	ung	1	muŋ1	同音字表	
 蒙	U+8499	mung2	m	ung	2	muŋ2	同音字表	
@@ -4802,6 +4825,7 @@
 薯	U+85AF	zu5	z	u	5	tsu5	同音字表	
 薰	U+85B0	shun1	sh	un	1	ʂun1	同音字表	
 薳	U+85B3	rhen2	rh	en	2	ʐen2	同音字表	
+薷	U+85B7	rhi2	rh	i	2	ʐʅ2	同音字表	
 薹	U+85B9	toi2	t	oi	2	tʰɔi2	同音字表	
 藁	U+85C1	gau2	g	au	2	kau2	同音字表	
 藉	U+85C9	zia5	z	ia	5	tsia5	同音字表	
@@ -4849,7 +4873,6 @@
 蚓	U+8693	rhin3	rh	in	3	ʐin3	同音字表	
 蠶	U+8836	cang2	c	ang	2	tsʰaŋ2	同音字表	
 蚜	U+869C	nga2	ng	a	2	ŋa2	同音字表	
-蚣	U+86A3	cia5	c	ia	5	tsʰia5	同音字表	
 蚣	U+86A3	gau1	g	au	1	kau1	同音字表	
 蚣	U+86A3	gung1	g	ung	1	kuŋ1	同音字表	
 蚤	U+86A4	zau3	z	au	3	tsau3	同音字表	
@@ -4923,6 +4946,7 @@
 蝴	U+8774	fu2	f	u	2	fu2	同音字表	
 蝶	U+8776	tiag8	t	iag	8	tʰiak8	同音字表	
 蝻	U+877B	nang2	n	ang	2	naŋ2	同音字表	
+螻	U+87BB	liu2	l	iu	2	liu2	同音字表	
 蝽	U+877D	chun1	ch	un	1	tʂʰun1	同音字表	
 螂	U+8782	long2	l	ong	2	lɔŋ2	同音字表	
 螃	U+8783	pong2	p	ong	2	pʰɔŋ2	同音字表	
@@ -5044,6 +5068,7 @@
 襏	U+894F	pad7	p	ad	7	pʰat7	同音字表	
 襜	U+895C	cang1	c	ang	1	tsʰaŋ1	同音字表	
 襟	U+895F	kiung1	k	iung	1	kʰiuŋ1	同音字表	
+襦	U+8966	rhi2	rh	i	2	ʐʅ2	同音字表	
 襧	U+8967	chi3	ch	i	3	tʂʰʅ3	同音字表	
 襩	U+8969	gui5	g	ui	5	kui5	同音字表	
 襫	U+896B	sid7	s	id	7	sit7	同音字表	
@@ -5291,6 +5316,7 @@
 趕	U+8D95	gon3	g	on	3	kɔn3	同音字表	
 趁	U+8D81	shin5	sh	in	5	ʂin5	同音字表	
 趂	U+8D82	ciag7	c	iag	7	tsʰiak7	同音字表	
+趄	U+8D84	cia5	c	ia	5	tsʰia5	同音字表	
 趄	U+8D84	zi1	z	i	1	tsi1	同音字表	
 超	U+8D85	chau1	ch	au	1	tʂʰau1	同音字表	
 越	U+8D8A	rhed8	rh	ed	8	ʐet8	同音字表	
@@ -5410,6 +5436,7 @@
 躬	U+8EAC	giung1	g	iung	1	kiuŋ1	同音字表	
 軀	U+8EC0	ki1	k	i	1	kʰi1	同音字表	
 躺	U+8EBA	tong3	t	ong	3	tʰɔŋ3	同音字表	
+輋	U+8F0B	cia2	c	ia	2	tsʰia2	同音字表	
 轆	U+8F46	lug8	l	ug	8	luk8	同音字表、單字詞條	
 轔	U+8F54	lin2	l	in	2	lin2	同音字表	
 車	U+8ECA	cha1	ch	a	1	tʂʰa1	同音字表	
@@ -5535,6 +5562,7 @@
 遑	U+9051	fong2	f	ong	2	fɔŋ2	同音字表	
 道	U+9053	tau5	t	au	5	tʰau5	同音字表	
 遺	U+907A	vi2	v	i	2	vi2	同音字表	
+遛	U+905B	liu2	l	iu	2	liu2	同音字表	
 遣	U+9063	kien3	k	ien	3	kʰien3	同音字表	
 遙	U+9059	rhau2	rh	au	2	ʐau2	同音字表	
 遭	U+906D	zau1	z	au	1	tsau1	同音字表	
@@ -5689,6 +5717,7 @@
 釘	U+91D8	liau3	l	iau	3	liau3	同音字表	
 釗	U+91D7	zhau1	zh	au	1	tʂau1	同音字表	
 釙	U+91D9	bug7	b	ug	7	puk7	同音字表	
+釕	U+91D5	liau2	l	iau	2	liau2	同音字表	
 釷	U+91F7	tu3	t	u	3	tʰu3	同音字表	
 釺	U+91FA	cien1	c	ien	1	tsʰien1	同音字表	
 釧	U+91E7	chon5	ch	on	5	tʂʰɔn5	同音字表	
@@ -5769,9 +5798,11 @@
 銥	U+92A5	rhi1	rh	i	1	ʐʅ1	同音字表	
 鏟	U+93DF	can3	c	an	3	tsʰan3	同音字表	
 銃	U+9283	chung5	ch	ung	5	tʂʰuŋ5	同音字表	
+銃	U+9283	liu3	l	iu	3	liu3	同音字表	
 鐋	U+940B	tong1	t	ong	1	tʰɔŋ1	同音字表	
 銨	U+92A8	on1		on	1	ɔn1	同音字表	
 銀	U+9280	nun2	n	un	2	nun2	同音字表	
+銣	U+92A3	rhi2	rh	i	2	ʐʅ2	同音字表	
 鑄	U+9444	zu5	z	u	5	tsu5	同音字表	
 鐒	U+9412	lau2	l	au	2	lau2	同音字表	
 鋪	U+92EA	pu1	p	u	1	pʰu1	同音字表	
@@ -5835,6 +5866,8 @@
 鎳	U+93B3	nied7	n	ied	7	niet7	同音字表	
 鎿	U+93BF	na1	n	a	1	na1	同音字表	
 鎿	U+93BF	oi1		oi	1	ɔi1	同音字表	
+鎦	U+93A6	liu2	l	iu	2	liu2	同音字表	
+鎦	U+93A6	liu5	l	iu	5	liu5	同音字表	
 鎬	U+93AC	gau2	g	au	2	kau2	同音字表	
 鎊	U+938A	bong5	b	ong	5	pɔŋ5	同音字表	
 鏜	U+93DC	tong2	t	ong	2	tʰɔŋ2	同音字表	
@@ -5844,7 +5877,7 @@
 鏃	U+93C3	zii1	z	ii	1	tsɿ1	同音字表	
 鏇	U+93C7	sien5	s	ien	5	sien5	同音字表	
 钁	U+9481	giog7	g	iog	7	kiɔk7	同音字表	
-鐐	U+9410	liau5	l	iau	5	liau5	同音字表	
+鐐	U+9410	liau2	l	iau	2	liau2	同音字表	
 鏷	U+93F7	pog7	p	og	7	pʰɔk7	同音字表	
 鐠	U+9420	zog7	z	og	7	tsɔk7	同音字表	
 鑹	U+9479	con5	c	on	5	tsʰɔn5	同音字表	
@@ -6048,6 +6081,7 @@
 頍	U+980D	od7		od	7	ɔt7	同音字表	
 頠	U+9820	ngui3	ng	ui	3	ŋui3	同音字表	
 顫	U+986B	zhen7	zh	en	7	tʂen7	同音字表	
+顬	U+986C	rhi2	rh	i	2	ʐʅ2	同音字表	
 頂	U+9802	dang3	d	ang	3	taŋ3	同音字表	
 頂	U+9802	din3	d	in	3	tin3	同音字表	
 頃	U+9803	kin3	k	in	3	kʰin3	同音字表	
@@ -6087,6 +6121,7 @@
 顰	U+9870	pun2	p	un	2	pʰun2	同音字表	
 風	U+98A8	fung1	f	ung	1	fuŋ1	同音字表	
 颶	U+98B6	ki5	k	i	5	kʰi5	同音字表	
+颼	U+98BC	liau2	l	iau	2	liau2	同音字表	
 颻	U+98BB	rhau2	rh	au	2	ʐau2	同音字表	
 飀	U+98C0	liu2	l	iu	2	liu2	同音字表	
 飄	U+98C4	piau1	p	iau	1	pʰiau1	同音字表	
@@ -6133,7 +6168,6 @@
 饋	U+994B	kui5	k	ui	5	kʰui5	同音字表	
 饃	U+9943	mo1	m	o	1	mɔ1	同音字表	
 餺	U+993A	bog7	b	og	7	pɔk7	同音字表	
-餾	U+993E	liu2	l	iu	2	liu2	同音字表	
 餾	U+993E	liu5	l	iu	5	liu5	同音字表	
 首	U+9996	su3	s	u	3	su3	同音字表	
 馗	U+9997	kui2	k	ui	2	kʰui2	同音字表	
@@ -6184,6 +6218,7 @@
 騷	U+9A37	sau1	s	au	1	sau1	同音字表	
 騖	U+9A16	vu5	v	u	5	vu5	同音字表	
 驁	U+9A41	ngau5	ng	au	5	ŋau5	同音字表	
+騮	U+9A2E	liu2	l	iu	2	liu2	同音字表	
 騫	U+9A2B	kien1	k	ien	1	kʰien1	同音字表	
 驃	U+9A43	biau1	b	iau	1	piau1	同音字表	
 騾	U+9A3E	lo2	l	o	2	lɔ2	同音字表	
@@ -6196,6 +6231,8 @@
 骼	U+9ABC	ha1	h	a	1	ha1	同音字表	
 髀	U+9AC0	bi3	b	i	3	pi3	同音字表	
 髁	U+9AC1	ko5	k	o	5	kʰɔ5	同音字表	
+髏	U+9ACF	liu3	l	iu	3	liu3	同音字表	
+髎	U+9ACE	liau5	l	iau	5	liau5	同音字表	
 髖	U+9AD6	kon1	k	on	1	kʰɔn1	同音字表	
 高	U+9AD8	gau1	g	au	1	kau1	同音字表	
 髡	U+9AE1	kun1	k	un	1	kʰun1	同音字表	
