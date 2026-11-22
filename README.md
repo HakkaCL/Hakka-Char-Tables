@@ -10,7 +10,7 @@
 | [`data/huiyang-1987/惠阳1987.tsv`](data/huiyang-1987/惠阳1987.tsv) | 1,227 | 1,206 | 周日健〈惠陽客家話音系〉（1987）單音節表 |
 | [`data/huidong-daling/惠东大岭.tsv`](data/huidong-daling/惠东大岭.tsv) | 723 | 685 | 《客家話通用詞典》「惠」欄（2004）＋周日健 1994 補 67 字 |
 | [`data/hongkong-newterritories/香港新界.tsv`](data/hongkong-newterritories/香港新界.tsv) | 9,846 | 9,382 | 香港本土語言保育協會《發音字典》字表 |
-| [`data/xingning/兴宁.tsv`](data/xingning/兴宁.tsv) | 6,053 | 5,156 | 饒秉才《興寧客家話詞典》（2017）附錄三同音字表 |
+| [`data/xingning/兴宁.tsv`](data/xingning/兴宁.tsv) | 6,056 | 5,158 | 饒秉才《興寧客家話詞典》（2017）附錄三同音字表 |
 | [`data/changting/长汀.tsv`](data/changting/长汀.tsv) | 4,474 | 3,710 | 周存《長汀話詞典》（2023） |
 
 前三點之外，大埔、興寧、寶安、惠陽、惠東、香港新界同屬客家話粵臺片梅惠小片；長汀屬汀州片（《中國語言地圖集》第二版）。

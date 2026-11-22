@@ -2423,6 +2423,7 @@
 枴	U+67B4	gai3	g	ai	3	kai3	同音字表	
 枵	U+67B5	shau1	sh	au	1	ʂau1	同音字表	
 架	U+67B6	ga5	g	a	5	ka5	同音字表	
+枷	U+67B7	ga1	g	a	1	ka1	同音字表	
 枸	U+67B8	gi1	g	i	1	ki1	同音字表	
 柄	U+67C4	biang5	b	iang	5	piaŋ5	同音字表	
 柏	U+67CF	bag7	b	ag	7	pak7	同音字表	
@@ -3746,6 +3747,7 @@
 穩	U+7A69	vun3	v	un	3	vun3	同音字表	
 稷	U+7A37	zi5	z	i	5	tsi5	同音字表	
 稹	U+7A39	zhin3	zh	in	3	tʂin3	同音字表	
+稼	U+7A3C	ga5	g	a	5	ka5	同音字表	
 稿	U+7A3F	gau2	g	au	2	kau2	同音字表	
 穀	U+7A40	gug7	g	ug	7	kuk7	同音字表	
 穄	U+7A44	zi5	z	i	5	tsi5	同音字表	
@@ -3780,7 +3782,6 @@
 窬	U+7AAC	rhi5	rh	i	5	ʐʅ5	同音字表	
 窳	U+7AB3	rhi5	rh	i	5	ʐʅ5	同音字表	
 窾	U+7ABE	kan3	k	an	3	kʰan3	同音字表	
-竊	U+7ACA	ga1	g	a	1	ka1	同音字表	
 豎	U+8C4E	su5	s	u	5	su5	同音字表	
 站	U+7AD9	cang5	c	ang	5	tsʰaŋ5	同音字表	
 站	U+7AD9	zang5	z	ang	5	tsaŋ5	同音字表	
@@ -5031,6 +5032,7 @@
 跌	U+8DCC	died8	d	ied	8	tiet8	同音字表	
 跍	U+8DCD	gu1	g	u	1	ku1	單字詞條	
 跎	U+8DCE	to2	t	o	2	tʰɔ2	同音字表	
+跏	U+8DCF	ga1	g	a	1	ka1	同音字表	
 跐	U+8DD0	cii1	c	ii	1	tsʰɿ1	同音字表	
 跐	U+8DD0	cii3	c	ii	3	tsʰɿ3	同音字表	
 跕	U+8DD5	diang5	d	iang	5	tiaŋ5	同音字表	
@@ -5109,7 +5111,6 @@
 躬	U+8EAC	giung1	g	iung	1	kiuŋ1	同音字表	
 軀	U+8EC0	ki1	k	i	1	kʰi1	同音字表	
 躺	U+8EBA	tong3	t	ong	3	tʰɔŋ3	同音字表	
-軋	U+8ECB	ga1	g	a	1	ka1	同音字表	
 轆	U+8F46	lug8	l	ug	8	luk8	同音字表、單字詞條	
 車	U+8ECA	cha1	ch	a	1	tʂʰa1	同音字表	
 車	U+8ECA	gi1	g	i	1	ki1	同音字表	
@@ -5348,14 +5349,17 @@
 量	U+91CF	liong2	l	iong	2	liɔŋ2	同音字表	
 量	U+91CF	liong5	l	iong	5	liɔŋ5	同音字表	
 金	U+91D1	giung1	g	iung	1	kiuŋ1	同音字表	
+釓	U+91D3	ga1	g	a	1	ka1	同音字表	
 釯	U+91EF	mong2	m	ong	2	mɔŋ2	同音字表	
 鉔	U+9254	pi1	p	i	1	pʰi1	同音字表	
 鉥	U+9265	sud8	s	ud	8	sut8	同音字表	
 鑑	U+9451	gang5	g	ang	5	kaŋ5	同音字表	
 鑾	U+947E	lan2	l	an	2	lan2	同音字表	
 鋈	U+92C8	vog7	v	og	7	vɔk7	同音字表	
+鍋	U+934B	ga1	g	a	1	ka1	同音字表	
 鎏	U+938F	liu2	l	iu	2	liu2	同音字表	
 鎔	U+9394	rhung2	rh	ung	2	ʐuŋ2	同音字表	
+鎵	U+93B5	ga1	g	a	1	ka1	同音字表	
 鏊	U+93CA	ngau5	ng	au	5	ŋau5	同音字表	
 鐅	U+9405	pied7	p	ied	7	pʰiet7	同音字表	
 鑞	U+945E	lag8	l	ag	8	lak8	同音字表	
@@ -5448,7 +5452,6 @@
 鋥	U+92E5	siang5	s	iang	5	siaŋ5	單字詞條	
 鋤	U+92E4	co2	c	o	2	tsʰɔ2	同音字表	
 鋤	U+92E4	cu2	c	u	2	tsʰu2	同音字表	
-鍋	U+934B	ga1	g	a	1	ka1	同音字表	
 鍋	U+934B	vog8	v	og	8	vɔk8	同音字表	
 鋨	U+92E8	ngo2	ng	o	2	ŋɔ2	同音字表	
 銼	U+92BC	co5	c	o	5	tsʰɔ5	同音字表	
@@ -5501,7 +5504,6 @@
 鎊	U+938A	bong5	b	ong	5	pɔŋ5	同音字表	
 鎊	U+938A	lau2	l	au	2	lau2	同音字表	
 鎰	U+93B0	ai5		ai	5	ai5	同音字表	
-鎵	U+93B5	ga1	g	a	1	ka1	同音字表	
 鏜	U+93DC	tong2	t	ong	2	tʰɔŋ2	同音字表	
 鏡	U+93E1	gin5	g	in	5	kin5	同音字表	
 鏑	U+93D1	did7	d	id	7	tit7	同音字表	
@@ -5797,6 +5799,7 @@
 首	U+9996	su3	s	u	3	su3	同音字表	
 馗	U+9997	kui2	k	ui	2	kʰui2	同音字表	
 馥	U+99A5	fug7	f	ug	7	fuk7	同音字表	
+駒	U+99D2	ga1	g	a	1	ka1	同音字表	
 騑	U+9A11	fi1	f	i	1	fi1	同音字表	
 騠	U+9A20	ti2	t	i	2	tʰi2	同音字表	
 騷	U+9A37	sa5	s	a	5	sa5	單字詞條	
