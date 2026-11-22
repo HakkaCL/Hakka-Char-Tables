@@ -12,7 +12,18 @@
 - 字形照母本：以繁體為主，另有 117 個字頭經 OpenCC s2t 會變形（万、体、儿、党、听等）；其中 112 個另有繁體字頭並存，72 個讀音完全相同。本表照錄，未轉換、未合併。
 - 原表「摑」作 `get3`（收 -t 尾而標舒聲調），旁證（寶安 `ged7`）作陰入，照收並在註釋標明。
 
-## 調值
+## 聲韻調
+
+以下按本表實際出現的客拼歸納；母本音系表以原書為準。
+
+- **聲母（17，含零聲母）**：b p m f v d t n l g k ng h z c s　∅
+- **韻母（55）**
+  - 陰聲：a e i o u ai au eu ia ie io iu oi ui iau ioi iui
+  - 陽聲：am an em en im in on un ang iam iem ien ion iun ong ung iang iong iung
+  - 入聲：ab ad ag eb ed ib id od og ud ug iab iag ied iog iud iug
+  - 聲化：m ng
+
+**聲調**
 
 協會原表只標 1–6 調類，未載調值。劉鎮發〈香港原居民：語言及語言保育〉只作定性描述：「陰平……中平調型」、「上聲是中降調」、「去聲包括廣州話的陰去和陽去」，未給五度值。
 

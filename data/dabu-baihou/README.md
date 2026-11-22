@@ -9,7 +9,18 @@
 - 原書錯字已改正並在註釋註明；多音字每讀附例詞。
 - 齊齒前 [ç] 寫 `x`、[ɛ] 寫 `ee`、舌尖元音寫 `ii`（見 [docs/schema.md](../../docs/schema.md)）。
 
-## 調值
+## 聲韻調
+
+以下按本表實際出現的客拼歸納；母本音系表以原書為準。
+
+- **聲母（22，含零聲母）**：b p m f v d t n l g k ng h z c s zh ch sh rh x　∅
+- **韻母（73）**
+  - 陰聲：a e i u ai au ei eu ia ie ii iu oi ou ua ui eeu iau ieu ioi iou uai
+  - 陽聲：am an em en im in on un ang eem een iam iem ien ion iun ong uan uen ung iang iong iung uang uong
+  - 入聲：ab ad ag eb ed ib id od og ud ug eeb eed iab iag ied iod iog iud iug uad ued uog
+  - 聲化：m v ng
+
+**聲調**（六調）
 
 | 調類 | 1 陰平 | 2 陽平 | 3 上聲 | 5 去聲 | 7 陰入 | 8 陽入 |
 |---|---|---|---|---|---|---|

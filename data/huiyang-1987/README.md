@@ -9,7 +9,17 @@
 - 原書調值 44／11／31／53／1／5 已換算為調類 1、2、3、5、7、8；例字原以圖形記號標調，按同文 1.3 調值換算。
 - 註釋為原書圈號說明（有音無字的注釋），無則空。
 
-## 調值
+## 聲韻調
+
+以下按本表實際出現的客拼歸納；母本音系表以原書為準。
+
+- **聲母（17，含零聲母）**：b p m f v d t n l g k ng h z c s　∅
+- **韻母（50）**
+  - 陰聲：a e i o u ai au eu ia ii io iu oi ui iau
+  - 陽聲：am an em en im in on un ang iam ian ion iun ong ung iang iong iung
+  - 入聲：ab ad ag eb ed ib id od og ud ug iab iad iag iog iud iug
+
+**聲調**（六調）
 
 | 調類 | 1 陰平 | 2 陽平 | 3 上聲 | 5 去聲 | 7 陰入 | 8 陽入 |
 |---|---|---|---|---|---|---|

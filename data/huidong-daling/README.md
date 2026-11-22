@@ -9,7 +9,18 @@
 - 讀音塊有時改用同義詞（如［伯娓］惠作「阿娘」），已用旁證校驗擋下。
 - 原書 `ɛ`／`ɔ` 依其音系表統一作 `e`／`o`。
 
-## 調值
+## 聲韻調
+
+以下按本表實際出現的客拼歸納；母本音系表以原書為準。
+
+- **聲母（17，含零聲母）**：b p m f v d t n l g k ng h z c s　∅
+- **韻母（47）**
+  - 陰聲：a e i o u ai au eu ia io iu oi ui iau
+  - 陽聲：am an em en im in on un ang iam ien ion iun ong ung iang iong iung
+  - 入聲：ab ad ag ed ib id od og ud ug iab iag iog iug
+  - 聲化：m
+
+**聲調**（六調）
 
 | 調類 | 1 陰平 | 2 陽平 | 3 上聲 | 5 去聲 | 7 陰入 | 8 陽入 |
 |---|---|---|---|---|---|---|
