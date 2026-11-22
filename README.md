@@ -2,14 +2,16 @@
 
 客家方言的漢字讀音表。每個方言點一張表，每行一個「字—讀音」，列出客拼、聲母、韻母、聲調與國際音標，並註明出處。欄位定義、`來源` 取值與各點記音處理見 [`docs/schema.md`](docs/schema.md)。
 
-| 方言點 | 片 | 條目 | 字數 | 母本 |
-|---|---|---:|---:|---|
-| [`data/dabu-baihou/大埔百侯.tsv`](data/dabu-baihou/大埔百侯.tsv) | 閩西粵東 | 3,701 | 3,371 | 何耿鏞《客家方言詞典》（2012）＋田調 |
-| [`data/shenzhen-baoan/深圳宝安.tsv`](data/shenzhen-baoan/深圳宝安.tsv) | 惠州 | 15,611 | 12,233 | 《客家話大辭典》寶安腔網絡版 |
-| [`data/huiyang-danshui/惠阳淡水.tsv`](data/huiyang-danshui/惠阳淡水.tsv) | 惠州 | 788 | 739 | 《惠陽縣志》方言篇（2003） |
-| [`data/huiyang-1987/惠阳1987.tsv`](data/huiyang-1987/惠阳1987.tsv) | 惠州 | 1,227 | 1,206 | 周日健〈惠陽客家話音系〉（1987）單音節表 |
-| [`data/huidong-daling/惠东大岭.tsv`](data/huidong-daling/惠东大岭.tsv) | 惠州 | 723 | 685 | 《客家話通用詞典》「惠」欄（2004）＋周日健 1994 補 67 字 |
-| [`data/hongkong-newterritories/香港新界.tsv`](data/hongkong-newterritories/香港新界.tsv) | 粵台 | 9,846 | 9,382 | 香港本土語言保育協會《發音字典》字表 |
+| 方言點 | 條目 | 字數 | 母本 |
+|---|---:|---:|---|
+| [`data/dabu-baihou/大埔百侯.tsv`](data/dabu-baihou/大埔百侯.tsv) | 3,701 | 3,371 | 何耿鏞《客家方言詞典》（2012）＋田調 |
+| [`data/shenzhen-baoan/深圳宝安.tsv`](data/shenzhen-baoan/深圳宝安.tsv) | 15,611 | 12,233 | 《客家話大辭典》寶安腔網絡版 |
+| [`data/huiyang-danshui/惠阳淡水.tsv`](data/huiyang-danshui/惠阳淡水.tsv) | 788 | 739 | 《惠陽縣志》方言篇（2003） |
+| [`data/huiyang-1987/惠阳1987.tsv`](data/huiyang-1987/惠阳1987.tsv) | 1,227 | 1,206 | 周日健〈惠陽客家話音系〉（1987）單音節表 |
+| [`data/huidong-daling/惠东大岭.tsv`](data/huidong-daling/惠东大岭.tsv) | 723 | 685 | 《客家話通用詞典》「惠」欄（2004）＋周日健 1994 補 67 字 |
+| [`data/hongkong-newterritories/香港新界.tsv`](data/hongkong-newterritories/香港新界.tsv) | 9,846 | 9,382 | 香港本土語言保育協會《發音字典》字表 |
+
+六點同屬客家話粵臺片梅惠小片（《中國語言地圖集》第二版）。
 
 惠陽有兩張表：**淡水**（縣志 2003）與 **1987**（周日健）不是同一土語——前者泥來合流、遇三讀 iu，後者 n／l 對立、遇三讀 u，故分立並列。
 

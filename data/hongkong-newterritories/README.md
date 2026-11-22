@@ -1,6 +1,6 @@
 # 香港新界
 
-香港新界原居民客家話（粵台片梅惠小片）。母本香港本土語言保育協會《發音字典》字表，即 `github.com/hkilang/TTS` 的 `src/res/raw/dictionary.csv`。9,846 條／9,382 字。
+香港新界原居民客家話（粵臺片梅惠小片）。母本香港本土語言保育協會《發音字典》字表，即 `github.com/hkilang/TTS` 的 `src/res/raw/dictionary.csv`。9,846 條／9,382 字。
 
 要點：
 
