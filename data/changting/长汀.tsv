@@ -1043,7 +1043,7 @@
 姑	U+59D1	gu1	g	u	1	ku1	單字詞條	
 姓	U+59D3	siang5	s	iang	5	siɑŋ5	單字詞條	
 委	U+59D4	ve3	v	e	3	ve3	單字詞條	
-姜	U+59DC	jioong1	j	ioong	1	tɕiɔŋ1	單字詞條	
+薑	U+8591	jioong1	j	ioong	1	tɕiɔŋ1	單字詞條	
 姣	U+59E3	xioo2	x	ioo	2	ɕiɔ2	單字詞條	
 姨	U+59E8	i2		i	2	i2	單字詞條	
 姿	U+59FF	zii1	z	ii	1	tsɿ1	單字詞條	
@@ -1218,7 +1218,7 @@
 崗	U+5D17	goong3	g	oong	3	kɔŋ3	單字詞條	
 嵐	U+5D50	lang2	l	ang	2	lɑŋ2	單字詞條	
 島	U+5CF6	do3	d	o	3	to3	單字詞條	
-巖	U+5DD6	ngang2	ng	ang	2	ŋɑŋ2	單字詞條	
+岩	U+5CA9	ngang2	ng	ang	2	ŋɑŋ2	單字詞條	
 嶺	U+5DBA	diang1	d	iang	1	tiɑŋ1	單字詞條	
 岱	U+5CB1	tue6	t	ue	6	tʰue6	詞條	
 岳	U+5CB3	ngo6	ng	o	6	ŋo6	單字詞條	
@@ -1552,7 +1552,7 @@
 扒	U+6252	pa1	p	a	1	pʰɑ1	單字詞條	
 扒	U+6252	pa2	p	a	2	pʰɑ2	單字詞條	
 打	U+6253	da3	d	a	3	tɑ3	單字詞條	
-託	U+8A17	to2	t	o	2	tʰo2	單字詞條	
+托	U+6258	to2	t	o	2	tʰo2	單字詞條	
 扚	U+625A	sho5	sh	o	5	ʃo5	單字詞條	
 扚	U+625A	xio5	x	io	5	ɕio5	單字詞條	
 扛	U+625B	goong1	g	oong	1	kɔŋ1	單字詞條	
@@ -2054,8 +2054,8 @@
 傑	U+5091	qe6	q	e	6	tɕʰe6	單字詞條	
 杵	U+6775	chu2	ch	u	2	tʃʰu2	單字詞條	
 杷	U+6777	pa2	p	a	2	pʰɑ2	單字詞條	
-松	U+677E	cong2	c	ong	2	tsʰoŋ2	單字詞條	
-松	U+677E	song1	s	ong	1	soŋ1	單字詞條	
+鬆	U+9B06	cong2	c	ong	2	tsʰoŋ2	單字詞條	
+鬆	U+9B06	song1	s	ong	1	soŋ1	單字詞條	
 板	U+677F	bang3	b	ang	3	pɑŋ3	單字詞條	
 板	U+677F	bing3	b	ing	3	piŋ3	單字詞條	
 極	U+6975	qi6	q	i	6	tɕʰi6	單字詞條	
@@ -2745,7 +2745,7 @@
 白	U+767D	pe6	p	e	6	pʰe6	單字詞條	
 百	U+767E	ba2	b	a	2	pɑ2	單字詞條	
 百	U+767E	be2	b	e	2	pe2	詞條	
-皁	U+7681	zoo3	z	oo	3	tsɔ3	單字詞條	
+皂	U+7682	zoo3	z	oo	3	tsɔ3	單字詞條	
 的	U+7684	di2	d	i	2	ti2	單字詞條	
 的	U+7684	di5	d	i	5	ti5	詞條	
 的	U+7684	ge3	g	e	3	ke3	詞條	
@@ -3011,7 +3011,7 @@
 筵	U+7B75	ing5		ing	5	iŋ5	單字詞條	
 筷	U+7B77	kue5	k	ue	5	kʰue5	單字詞條	
 籌	U+7C4C	cheu2	ch	eu	2	tʃʰəɯ2	詞條	
-籤	U+7C64	cing1	c	ing	1	tsʰiŋ1	單字詞條	
+簽	U+7C3D	cing1	c	ing	1	tsʰiŋ1	單字詞條	
 簡	U+7C21	gang3	g	ang	3	kɑŋ3	單字詞條	
 箅	U+7B85	bi5	b	i	5	pi5	單字詞條	
 箍	U+7B8D	keu1	k	eu	1	kʰəɯ1	單字詞條	
@@ -3637,7 +3637,7 @@
 衹	U+8879	zii3	z	ii	3	tsɿ3	單字詞條	
 袁	U+8881	ing2		ing	2	iŋ2	單字詞條	
 襖	U+8956	oo3		oo	3	ɔ3	單字詞條	
-嫋	U+5ACB	nioo3	n	ioo	3	niɔ3	單字詞條	
+裊	U+88CA	nioo3	n	ioo	3	niɔ3	單字詞條	
 袋	U+888B	tue1	t	ue	1	tʰue1	詞條	
 袋	U+888B	tue6	t	ue	6	tʰue6	單字詞條	
 袍	U+888D	poo2	p	oo	2	pʰɔ2	單字詞條	
@@ -3783,7 +3783,7 @@
 譜	U+8B5C	pu3	p	u	3	pʰu3	單字詞條	
 譴	U+8B74	qing3	q	ing	3	tɕʰiŋ3	單字詞條	
 譫	U+8B6B	jing1	j	ing	1	tɕiŋ1	單字詞條	
-谷	U+8C37	gu2	g	u	2	ku2	單字詞條	
+穀	U+7A40	gu2	g	u	2	ku2	單字詞條	
 豆	U+8C46	deu6	d	eu	6	təɯ6	詞條	
 豆	U+8C46	teu6	t	eu	6	tʰəɯ6	單字詞條	
 豉	U+8C49	shii6	sh	ii	6	ʃɨ6	單字詞條	
@@ -4094,7 +4094,7 @@
 釣	U+91E3	dioo5	d	ioo	5	tiɔ5	單字詞條	
 釵	U+91F5	cai1	c	ai	1	tsʰɑi1	單字詞條	
 鈍	U+920D	teng6	t	eng	6	tʰeŋ6	單字詞條	
-鍾	U+937E	zhong1	zh	ong	1	tʃoŋ1	單字詞條	
+鐘	U+9418	zhong1	zh	ong	1	tʃoŋ1	單字詞條	
 鋼	U+92FC	goong5	g	oong	5	kɔŋ5	單字詞條	
 欽	U+6B3D	cheng1	ch	eng	1	tʃʰeŋ1	單字詞條	
 鉤	U+9264	geu1	g	eu	1	kəɯ1	單字詞條	

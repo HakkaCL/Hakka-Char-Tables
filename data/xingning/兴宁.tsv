@@ -635,8 +635,8 @@
 叼	U+53FC	diau1	d	iau	1	tiau1	同音字表	
 嘰	U+5630	gi1	g	i	1	ki1	同音字表	
 嘰	U+5630	zad8	z	ad	8	tsat8	同音字表	
-籲	U+7C72	nien2	n	ien	2	nien2	同音字表	
-籲	U+7C72	rhi5	rh	i	5	ʐʅ5	同音字表	
+吁	U+5401	nien2	n	ien	2	nien2	同音字表	
+吁	U+5401	rhi5	rh	i	5	ʐʅ5	同音字表	
 吂	U+5402	sang3	s	ang	3	saŋ3	單字詞條	
 吃	U+5403	gag8	g	ag	8	kak8	同音字表	
 各	U+5404	gog7	g	og	7	kɔk7	同音字表	
@@ -1090,7 +1090,7 @@
 埔	U+57D4	pu5	p	u	5	pʰu5	同音字表	
 埕	U+57D5	chin2	ch	in	2	tʂʰin2	同音字表	
 埕	U+57D5	sied8	s	ied	8	siet8	同音字表	
-壎	U+58CE	shun1	sh	un	1	ʂun1	同音字表	
+塤	U+5864	shun1	sh	un	1	ʂun1	同音字表	
 埝	U+57DD	niang5	n	iang	5	niaŋ5	同音字表	
 域	U+57DF	vied7	v	ied	7	viet7	同音字表	
 埠	U+57E0	fiu5	f	iu	5	fiu5	同音字表	
@@ -1238,7 +1238,7 @@
 姍	U+59CD	san1	s	an	1	san1	同音字表	
 姘	U+59D8	pun2	p	un	2	pʰun2	同音字表	
 姚	U+59DA	rhau2	rh	au	2	ʐau2	同音字表	
-姜	U+59DC	giong1	g	iong	1	kiɔŋ1	同音字表	
+薑	U+8591	giong1	g	iong	1	kiɔŋ1	同音字表	
 姣	U+59E3	hau2	h	au	2	hau2	同音字表	
 姥	U+59E5	lau3	l	au	3	lau3	同音字表	
 姦	U+59E6	gan1	g	an	1	kan1	同音字表	
@@ -1264,7 +1264,7 @@
 娩	U+5A29	van3	v	an	3	van3	同音字表	
 娛	U+5A1B	ngu2	ng	u	2	ŋu2	同音字表	
 媧	U+5AA7	vo1	v	o	1	vɔ1	同音字表	
-嫺	U+5AFA	han2	h	an	2	han2	同音字表	
+嫻	U+5AFB	han2	h	an	2	han2	同音字表	
 娵	U+5A35	zi1	z	i	1	tsi1	同音字表	
 娶	U+5A36	ci3	c	i	3	tsʰi3	同音字表	
 婀	U+5A40	o1		o	1	ɔ1	同音字表	
@@ -1465,7 +1465,7 @@
 岞	U+5C9E	cog8	c	og	8	tsʰɔk8	同音字表	
 岢	U+5CA2	ko3	k	o	3	kʰɔ3	同音字表	
 岨	U+5CA8	zi1	z	i	1	tsi1	同音字表	
-巖	U+5DD6	ngang2	ng	ang	2	ŋaŋ2	同音字表	
+岩	U+5CA9	ngang2	ng	ang	2	ŋaŋ2	同音字表	
 岫	U+5CAB	hog8	h	og	8	hɔk8	同音字表	
 岬	U+5CAC	gag7	g	ag	7	kak7	同音字表	
 嶺	U+5DBA	liang1	l	iang	1	liaŋ1	同音字表	
@@ -1885,7 +1885,7 @@
 撲	U+64B2	pog7	p	og	7	pʰɔk7	同音字表	
 扒	U+6252	pa2	p	a	2	pʰa2	同音字表	
 打	U+6253	da3	d	a	3	ta3	同音字表	
-託	U+8A17	tog7	t	og	7	tʰɔk7	同音字表	
+托	U+6258	tog7	t	og	7	tʰɔk7	同音字表	
 扚	U+625A	did7	d	id	7	tit7	單字詞條	
 扛	U+625B	gong1	g	ong	1	kɔŋ1	同音字表	
 執	U+57F7	zhug7	zh	ug	7	tʂuk7	同音字表	
@@ -2392,7 +2392,7 @@
 杳	U+6773	miau3	m	iau	3	miau3	同音字表	
 杵	U+6775	cu3	c	u	3	tsʰu3	同音字表	
 杷	U+6777	pa2	p	a	2	pʰa2	同音字表	
-松	U+677E	sung1	s	ung	1	suŋ1	同音字表	
+鬆	U+9B06	sung1	s	ung	1	suŋ1	同音字表	
 板	U+677F	ban3	b	an	3	pan3	同音字表	
 極	U+6975	gid8	g	id	8	kit8	同音字表	
 極	U+6975	kid8	k	id	8	kʰit8	同音字表	
@@ -3461,8 +3461,8 @@
 登	U+767B	dien1	d	ien	1	tien1	同音字表	
 白	U+767D	pag8	p	ag	8	pʰak8	同音字表	
 百	U+767E	bag7	b	ag	7	pak7	同音字表	
-皁	U+7681	cau5	c	au	5	tsʰau5	同音字表	
-皁	U+7681	zau5	z	au	5	tsau5	同音字表	
+皂	U+7682	cau5	c	au	5	tsʰau5	同音字表	
+皂	U+7682	zau5	z	au	5	tsau5	同音字表	
 的	U+7684	did7	d	id	7	tit7	同音字表	
 皆	U+7686	gai1	g	ai	1	kai1	同音字表	
 皇	U+7687	fong2	f	ong	2	fɔŋ2	同音字表	
@@ -3836,7 +3836,7 @@
 筱	U+7B71	siau3	s	iau	3	siau3	同音字表	
 筷	U+7B77	kai5	k	ai	5	kʰai5	同音字表	
 籌	U+7C4C	cu2	c	u	2	tsʰu2	同音字表	
-籤	U+7C64	ciang1	c	iang	1	tsʰiaŋ1	同音字表	
+簽	U+7C3D	ciang1	c	iang	1	tsʰiaŋ1	同音字表	
 簡	U+7C21	gan3	g	an	3	kan3	同音字表	
 箍	U+7B8D	ku1	k	u	1	kʰu1	同音字表	
 箔	U+7B94	pog8	p	og	8	pʰɔk8	同音字表	
@@ -4728,7 +4728,7 @@
 袂	U+8882	mi5	m	i	5	mi5	同音字表	
 袂	U+8882	rhid8	rh	id	8	ʐit8	同音字表	
 襖	U+8956	au3		au	3	au3	同音字表	
-嫋	U+5ACB	niau3	n	iau	3	niau3	同音字表	
+裊	U+88CA	niau3	n	iau	3	niau3	同音字表	
 褘	U+8918	rhi1	rh	i	1	ʐʅ1	同音字表	
 袈	U+8888	ga1	g	a	1	ka1	同音字表	
 袋	U+888B	toi5	t	oi	5	tʰɔi5	同音字表	
@@ -4820,6 +4820,7 @@
 討	U+8A0E	tau3	t	au	3	tʰau3	同音字表	
 讓	U+8B93	rhong5	rh	ong	5	ʐɔŋ5	同音字表	
 訕	U+8A15	san5	s	an	5	san5	同音字表	
+託	U+8A17	tog7	t	og	7	tʰɔk7	同音字表	
 議	U+8B70	ni5	n	i	5	ni5	同音字表	
 訊	U+8A0A	sun3	s	un	3	sun3	同音字表	
 記	U+8A18	gi5	g	i	5	ki5	同音字表	
@@ -4916,8 +4917,7 @@
 謾	U+8B3E	man5	m	an	5	man5	同音字表	
 謬	U+8B2C	miu3	m	iu	3	miu3	同音字表	
 譜	U+8B5C	pu3	p	u	3	pʰu3	同音字表	
-谷	U+8C37	gug7	g	ug	7	kuk7	同音字表	
-谷	U+8C37	rhug8	rh	ug	8	ʐuk8	同音字表	
+穀	U+7A40	rhug8	rh	ug	8	ʐuk8	同音字表	
 豁	U+8C41	vog7	v	og	7	vɔk7	同音字表	
 豆	U+8C46	tiu5	t	iu	5	tʰiu5	同音字表	
 豈	U+8C48	tiu5	t	iu	5	tʰiu5	同音字表	
@@ -5376,7 +5376,7 @@
 鈦	U+9226	tai5	t	ai	5	tʰai5	同音字表	
 鈍	U+920D	tun5	t	un	5	tʰun5	同音字表	
 鈔	U+9214	cau1	c	au	1	tsʰau1	同音字表	
-鍾	U+937E	zhung1	zh	ung	1	tʂuŋ1	同音字表	
+鐘	U+9418	zhung1	zh	ung	1	tʂuŋ1	同音字表	
 鈉	U+9209	nag8	n	ag	8	nak8	同音字表	
 鋇	U+92C7	bi5	b	i	5	pi5	同音字表	
 鋼	U+92FC	gong1	g	ong	1	kɔŋ1	同音字表	
@@ -5485,6 +5485,7 @@
 鏘	U+93D8	ciong1	c	iong	1	tsʰiɔŋ1	同音字表	
 鍔	U+9354	ngog8	ng	og	8	ŋɔk8	同音字表	
 鍬	U+936C	ciau1	c	iau	1	tsʰiau1	同音字表	
+鍾	U+937E	zhung1	zh	ung	1	tʂuŋ1	同音字表	
 鍛	U+935B	don5	d	on	5	tɔn5	同音字表	
 鍛	U+935B	ton5	t	on	5	tʰɔn5	同音字表	
 鍠	U+9360	fong2	f	ong	2	fɔŋ2	同音字表	
