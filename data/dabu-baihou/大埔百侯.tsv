@@ -1,4 +1,5 @@
 #字	UCODE	客拼	聲母	韻母	聲調	音標	來源	註釋
+㓾	U+34FE	chi2	ch	i	2	tʃʰʅ2	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#035；~豬＝殺豬
 㖹	U+35B9	pun2	p	un	2	pʰun2	詞典	附篇本字：吹氣（pun②）
 㫰	U+3AF0	lung5	l	ung	5	loŋ5	詞典	附篇本字：曬（long④）
 䀹	U+4039	shab7	sh	ab	7	ʃap7	詞典	
@@ -196,7 +197,7 @@
 偽	U+507D	ngui3	ng	ui	3	ŋui3	母語者表	
 傀	U+5080	gui3	g	ui	3	kui3	母語者表	
 傅	U+5085	fu5	f	u	5	fu5	母語者表	
-傍	U+508D	bong3	b	ong	3	pɔŋ3	母語者表	
+傍	U+508D	bong3	b	ong	3	pɔŋ3	母語者表、推薦用字第1批	台灣客家語書寫推薦用字（第1批）#024；~飯＝配飯
 傑	U+5091	kied8	k	ied	8	kʰiet8	母語者表	
 傘	U+5098	san3	s	an	3	san3	母語者表	
 備	U+5099	pi5	p	i	5	pʰi5	母語者表	
@@ -612,6 +613,7 @@
 團	U+5718	ton2	t	on	2	tʰon2	詞典、母語者表	
 土	U+571F	tu3	t	u	3	tʰu3	詞典、母語者表	
 在	U+5728	cai5	c	ai	5	tsʰai5	詞典、母語者表	
+在	U+5728	coi1	c	oi	1	tsʰoi1	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#039；~哪？＝在哪裡？
 地	U+5730	ti2	t	i	2	tʰi2	詞典	~泥
 地	U+5730	ti5	t	i	5	tʰi5	詞典、母語者表	~當、~秧
 圳	U+5733	zhun5	zh	un	5	tʃun5	詞典、母語者表	
@@ -1100,8 +1102,10 @@
 恥	U+6065	chi3	ch	i	3	tʃʰʅ3	母語者表	
 恨	U+6068	hen5	h	en	5	hen5	母語者表	
 恩	U+6069	en1		en	1	en1	詞典、母語者表	
+恬	U+606C	diam1	d	iam	1	tiam1	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#058；~靜＝寂靜
 恬	U+606C	teem2	t	eem	2	tʰæm2	母語者表	
 恭	U+606D	giung1	g	iung	1	kioŋ1	母語者表	
+息	U+606F	sed7	s	ed	7	set7	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#262；~嫲＝曾孫
 息	U+606F	sid7	s	id	7	sit7	詞典、母語者表	
 恰	U+6070	kab7	k	ab	7	kʰap7	母語者表	
 悅	U+6085	rheed8	rh	eed	8	ʒæt8	母語者表	入聲，翹舌只接 ee
@@ -1283,6 +1287,7 @@
 捆	U+6346	kun3	k	un	3	kʰun3	詞典、母語者表	
 捉	U+6349	zog7	z	og	7	tsɔk7	詞典、母語者表	
 捋	U+634B	lod8	l	od	8	lot8	詞典	
+捏	U+634F	ned7	n	ed	7	net7	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#212；~斷
 捏	U+634F	need7	n	eed	7	næt7	母語者表	
 捐	U+6350	gien1	g	ien	1	kien1	母語者表	
 捕	U+6355	pu3	p	u	3	pʰu3	母語者表	
@@ -1374,6 +1379,7 @@
 擁	U+64C1	rhung3	rh	ung	3	ʒoŋ3	母語者表	
 擂	U+64C2	lui2	l	ui	2	lui2	詞典、母語者表	附篇本字：研磨（力堆切）
 擇	U+64C7	ced8	c	ed	8	tsʰet8	母語者表	
+擇	U+64C7	tog8	t	og	8	tʰɔk8	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#280；揀~＝挑選
 擊	U+64CA	gid7	g	id	7	kit7	母語者表	
 擋	U+64CB	dong3	d	ong	3	tɔŋ3	詞典、母語者表	
 操	U+64CD	cau1	c	au	1	tsʰau1	母語者表	
@@ -1915,6 +1921,7 @@
 漆	U+6F06	cid7	c	id	7	tsʰit7	詞典、母語者表	
 漏	U+6F0F	leu5	l	eu	5	leu5	詞典、母語者表	
 演	U+6F14	rheen5	rh	een	5	ʒæn5	母語者表	
+漚	U+6F1A	eu5		eu	5	eu5	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#074；~熟：使果實成熟
 漢	U+6F22	hon5	h	on	5	hon5	詞典、母語者表	
 漫	U+6F2B	man5	m	an	5	man5	母語者表	
 漬	U+6F2C	zid7	z	id	7	tsit7	母語者表	
@@ -2004,6 +2011,7 @@
 熟	U+719F	shug8	sh	ug	8	ʃok8	詞典、母語者表	
 熨	U+71A8	rhun5	rh	un	5	ʒun5	母語者表	
 熬	U+71AC	ngau2	ng	au	2	ŋau2	詞典、母語者表	
+熰	U+71B0	eu5		eu	5	eu5	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#073；~火爐堆＝燜燒垃圾堆
 熱	U+71B1	ngied8	ng	ied	8	ŋiet8	詞典、母語者表	
 熹	U+71B9	xi1	x	i	1	çi1	母語者表	
 熾	U+71BE	zhid7	zh	id	7	tʃit7	母語者表	
@@ -2271,6 +2279,7 @@
 矮	U+77EE	ei3		ei	3	ei3	詞典、母語者表	
 矯	U+77EF	giau3	g	iau	3	kiau3	母語者表	
 石	U+77F3	shag8	sh	ag	8	ʃak8	詞典、母語者表	
+矺	U+77FA	zag7	z	ag	7	tsak7	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#297；~年錢＝壓歲錢
 砂	U+7802	sa1	s	a	1	sa1	母語者表	
 砌	U+780C	ci5	c	i	5	tsʰi5	母語者表	
 砍	U+780D	kam3	k	am	3	kʰam3	詞典	
@@ -2898,6 +2907,7 @@
 蝕	U+8755	sheed8	sh	eed	8	ʃæt8	詞典、母語者表	入聲，翹舌只接 ee
 蝙	U+8759	pien1	p	ien	1	pʰien1	母語者表	
 蝠	U+8760	fug7	f	ug	7	fok7	母語者表	
+蝠	U+8760	pid8	p	id	8	pʰit8	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#237；~婆＝蝙蝠
 蝦	U+8766	ha1	h	a	1	ha1	詞典	
 蝦	U+8766	ha2	h	a	2	ha2	母語者表	
 蝨	U+8768	sed7	s	ed	7	set7	詞典、母語者表	
@@ -2977,10 +2987,11 @@
 要	U+8981	rhau1	rh	au	1	ʒau1	母語者表	
 要	U+8981	rhau5	rh	au	5	ʒau5	母語者表	
 覆	U+8986	fug8	f	ug	8	fok8	母語者表	
+覆	U+8986	pug7	p	ug	7	pʰok7	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#245；~菜；碗~落去＝倒置
 見	U+898B	gien5	g	ien	5	kien5	詞典、母語者表	
 規	U+898F	gui1	g	ui	1	kui1	母語者表	
 覓	U+8993	med7	m	ed	7	met7	詞典	
-覓	U+8993	mi5	m	i	5	mi5	母語者表	
+覓	U+8993	mi5	m	i	5	mi5	母語者表、推薦用字第1批	台灣客家語書寫推薦用字（第1批）#202；~蜆（仔）＝摸取河蜆
 視	U+8996	shi5	sh	i	5	ʃʅ5	詞典、母語者表	
 親	U+89AA	cin1	c	in	1	tsʰin1	詞典、母語者表	
 親	U+89AA	cin5	c	in	5	tsʰin5	母語者表	
@@ -3016,6 +3027,7 @@
 詭	U+8A6D	gui3	g	ui	3	kui3	母語者表	
 詮	U+8A6E	cion2	c	ion	2	tsʰion2	母語者表	
 話	U+8A71	fa5	f	a	5	fa5	詞典、母語者表	
+話	U+8A71	va5	v	a	5	va5	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#283；勸~＝勸說
 該	U+8A72	gai1	g	ai	1	kai1	詞典、母語者表	
 詳	U+8A73	siong2	s	iong	2	siɔŋ2	母語者表	
 詹	U+8A79	zham1	zh	am	1	tʃam1	母語者表	
@@ -3683,6 +3695,7 @@
 𠊎	U+2028E	ngai2	ng	ai	2	ŋai2	詞典	
 𠢠	U+208A0	led7	l	ed	7	let7	詞典	附篇本字：荊棘（let①）
 𡝠	U+21760	mei1	m	ei	1	mei1	詞典	附篇本字：母親（mei①）
+𤌍	U+2430D	kog7	k	og	7	kʰɔk7	推薦用字第1批	台灣客家語書寫推薦用字（第1批）#160；~窯（仔）＝燜烤（番薯）
 𤙓	U+24653	tung1	t	ung	1	tʰoŋ1	詞典	
 𤶗	U+24D97	ngoi2	ng	oi	2	ŋoi2	詞典	附篇本字：癡（ngoi②）
 𨀣	U+28023	ki1	k	i	1	kʰi1	詞典	
