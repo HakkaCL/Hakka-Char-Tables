@@ -5,8 +5,8 @@
 要點：
 
 - 字形照母本（多為繁體，含異體、俗字、擴展區字與少量簡體字頭），未轉換、未合併。
-- 有音位性 /j/，客拼寫 i 韻頭（一 `id7`、爺 `ia2`、有 `iu1`），音標作 [j]。
-- 客拼無 y 字母，/j/ 與零聲母偶爾同形（有 `iu1` 與 歐 `iu1`），音標欄以 [j]／∅ 之別區分。
+- 有音位性 /j/，客拼暫寫 y 聲母（一 `yid7`、爺 `yia2`、有 `yiu1`），音標作 [j]。
+- 客拼以 y 區分 /j/ 與零聲母（有 `yiu1` 與 歐 `iu1`）；此為寶安表暫行寫法，其餘各點不用 y。
 - 流攝讀 iu（頭 `tiu2`、狗 `giu3`）。
 - 註釋為母本的同音字注（如「本典同音字注：益」）。
 
@@ -14,7 +14,7 @@
 
 以下按本表實際出現的客拼歸納；母本音系表以原書為準。
 
-- **聲母（16，含零聲母）**：b p m f v d t l g k ng h z c s　∅
+- **聲母（17，含 y 與零聲母）**：b p m f v d t l g k ng h z c s y　∅
 - **韻母（55）**
   - 陰聲：a e i o u ai au ia ie io iu oi ui iau ioi iui
   - 陽聲：am an em en im in on un ang iam iem ien ion iun ong ung iang iong iung
