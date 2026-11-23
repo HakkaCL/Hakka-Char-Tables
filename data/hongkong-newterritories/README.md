@@ -5,7 +5,7 @@
 要點：
 
 - 六調：陰平 1、陽平 2、上 3、去 5、陰入 7、陽入 8。協會原表用 1–6（4 為去聲、5 陰入、6 陽入），本表已按調類換算。
-- 有音位性 /j/，客拼寫 i 韻頭，音標作 j：一 `jit7`、有 `jiu1`、音 `jim1`。客拼無 y 字母，故 有 `iu1` 與 歐 `iu1` 同形，音標以 `j-` 與零聲母區別。
+- 有音位性 /j/，客拼暫寫 y 聲母：母本 HKILANG 原表即以 `y` 區分（有 `yiu1` / 歐 `iu1`），本表沿用並把 y 記入聲母欄；音標作 j。一 `yid7`、有 `yiu1`、音 `yim1`。此為暫行寫法，與寶安一致；其餘各點不用 y。
 - 三四等保留 i 韻頭：天 `tien1`、月 `ngied8`、仙 `sien1`。
 - 流攝讀 eu：頭 `teu2`、狗 `geu3`、樓 `leu2`。
 - 通攝 `ung/ug`、宕攝 `ong/og`：東 `dung1`、屋 `vug7`、光 `gong1`、角 `gog7`。
@@ -16,7 +16,7 @@
 
 以下按本表實際出現的客拼歸納；母本音系表以原書為準。
 
-- **聲母（17，含零聲母）**：b p m f v d t n l g k ng h z c s　∅
+- **聲母（18，含 y 與零聲母）**：b p m f v d t n l g k ng h z c s y　∅
 - **韻母（55）**
   - 陰聲：a e i o u ai au eu ia ie io iu oi ui iau ioi iui
   - 陽聲：am an em en im in on un ang iam iem ien ion iun ong ung iang iong iung
