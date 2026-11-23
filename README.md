@@ -5,15 +5,17 @@
 | 方言點 | 條目 | 字數 | 母本 |
 |---|---:|---:|---|
 | [`data/dabu-baihou/大埔百侯.tsv`](data/dabu-baihou/大埔百侯.tsv) | 4,888 | 4,445 | 何耿鏞《客家方言詞典》（2012）＋田調 |
-| [`data/shenzhen-baoan/深圳宝安.tsv`](data/shenzhen-baoan/深圳宝安.tsv) | 19,027 | 14,934 | 《客家話大辭典》寶安腔網絡版 |
-| [`data/huiyang-danshui/惠阳淡水.tsv`](data/huiyang-danshui/惠阳淡水.tsv) | 1,053 | 991 | 《惠陽縣志》方言篇（2003） |
-| [`data/huiyang-1987/惠阳1987.tsv`](data/huiyang-1987/惠阳1987.tsv) | 1,644 | 1,616 | 周日健〈惠陽客家話音系〉（1987）單音節表 |
-| [`data/huidong-daling/惠东大岭.tsv`](data/huidong-daling/惠东大岭.tsv) | 959 | 914 | 《客家話通用詞典》「惠」欄（2004）＋周日健 1994 補 67 字 |
+| [`data/shenzhen-baoan/深圳寶安.tsv`](data/shenzhen-baoan/深圳寶安.tsv) | 19,027 | 14,934 | 《客家話大辭典》寶安腔網絡版 |
+| [`data/huiyang-danshui/惠陽淡水.tsv`](data/huiyang-danshui/惠陽淡水.tsv) | 1,053 | 991 | 《惠陽縣志》方言篇（2003） |
+| [`data/huiyang-1987/惠陽1987.tsv`](data/huiyang-1987/惠陽1987.tsv) | 1,644 | 1,616 | 周日健〈惠陽客家話音系〉（1987）單音節表 |
+| [`data/huidong-daling/惠東大嶺.tsv`](data/huidong-daling/惠東大嶺.tsv) | 959 | 914 | 《客家話通用詞典》「惠」欄（2004）＋周日健 1994 補 67 字 |
 | [`data/hongkong-newterritories/香港新界.tsv`](data/hongkong-newterritories/香港新界.tsv) | 12,485 | 11,816 | 香港本土語言保育協會《發音字典》字表 |
-| [`data/xingning/兴宁.tsv`](data/xingning/兴宁.tsv) | 8,612 | 7,375 | 饒秉才《興寧客家話詞典》（2017）附錄三同音字表 |
-| [`data/changting/长汀.tsv`](data/changting/长汀.tsv) | 5,932 | 4,921 | 周存《長汀話詞典》（2023） |
+| [`data/xingning/興寧.tsv`](data/xingning/興寧.tsv) | 8,612 | 7,375 | 饒秉才《興寧客家話詞典》（2017）附錄三同音字表 |
+| [`data/changting/長汀.tsv`](data/changting/長汀.tsv) | 5,932 | 4,921 | 周存《長汀話詞典》（2023） |
 
 前三點之外，大埔、興寧、寶安、惠陽、惠東、香港新界同屬客家話粵臺片梅惠小片；長汀屬汀州片（《中國語言地圖集》第二版）。
+
+路徑命名：目錄用拼音 slug（`xingning/`、`huiyang-danshui/`），檔名用繁體（`興寧.tsv`、`惠陽淡水.tsv`）。
 
 惠陽有兩張表：**淡水**（縣志 2003）與 **1987**（周日健）不是同一土語——前者泥來合流、遇三讀 iu，後者 n／l 對立、遇三讀 u，故分立並列。
 
